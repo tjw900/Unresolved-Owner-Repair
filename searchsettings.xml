@@ -1,0 +1,3208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalOptions Version="2" AppVersion="8.32" Type="TFileSearchOptions">
+	<GlobalOptions Type="TGlobalSearchOptions">
+		<DriveListExcludes Type="TJamPathList"></DriveListExcludes>
+		<ImportExcludeNonExistingPaths>True</ImportExcludeNonExistingPaths>
+		<LoadViewOptionsFromXML>True</LoadViewOptionsFromXML>
+		<InheritThreadOptions>False</InheritThreadOptions>
+		<EmailExportAllLists>False</EmailExportAllLists>
+		<EmailCheckedItemsOnly>False</EmailCheckedItemsOnly>
+		<ViewExpandable>False</ViewExpandable>
+		<PersistedCheckAllMatchingExpression Type="TContainerExpression"></PersistedCheckAllMatchingExpression>
+		<TextExtensions>*.asc;*.latex;*.log;*.nfo;*.tex;*.txt;*.1st;*.csv;*.xml;*.rtf;*.eml</TextExtensions>
+		<RecentlyUsedFilePaths Type="TRecentlyUsedPaths">
+			<Item>
+				<Path>C:\Users\tjw900\Documents\searchsettings.xml</Path>
+				<TimeStamp>44741.3887116898</TimeStamp>
+			</Item>
+		</RecentlyUsedFilePaths>
+		<LastReportType>8</LastReportType>
+		<LastExportPath>C:\Users\tjw900\Documents</LastExportPath>
+		<MaximumThreads>8</MaximumThreads>
+		<ToolTipStyle>1</ToolTipStyle>
+		<DetermineIconsOnFileExt>True</DetermineIconsOnFileExt>
+		<EnableNotifications>True</EnableNotifications>
+		<ListPresenterColumns Type="TPresenterColumnsDictionary">
+			<Item>
+				<Key>{0317B356-D0A6-4EED-9BDA-DC2C92DDE950}</Key>
+				<Value Type="TViewTypeListColumns">
+					<Item Type="TColumn">
+						<ViewType>1</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>True</Visible>
+								<Width>280</Width>
+								<Order>0</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>1</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>22</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>True</Visible>
+								<Width>280</Width>
+								<Order>1</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>22</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+				</Value>
+			</Item>
+			<Item>
+				<Key>{E65978EA-DA70-4A3E-AE99-30B358532CA5}</Key>
+				<Value Type="TViewTypeListColumns">
+					<Item Type="TColumn">
+						<ViewType>0</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>256</Width>
+								<Order>0</Order>
+								<Fixed>True</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>0</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>16</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>215</Width>
+								<Order>1</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>16</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>1</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>True</Visible>
+								<Width>769</Width>
+								<Order>2</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>1</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>7</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>55</Width>
+								<Order>3</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>7</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>2</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>63</Width>
+								<Order>4</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>2</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>3</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>85</Width>
+								<Order>5</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>3</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>9</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>72</Width>
+								<Order>6</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>9</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>10</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>96</Width>
+								<Order>7</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>10</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>11</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>96</Width>
+								<Order>8</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>11</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>52</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>150</Width>
+								<Order>9</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>52</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>12</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>True</Visible>
+								<Width>355</Width>
+								<Order>10</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>12</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>14</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>140</Width>
+								<Order>11</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>14</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>15</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>80</Width>
+								<Order>12</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>15</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>37</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>96</Width>
+								<Order>13</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>37</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>19</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>55</Width>
+								<Order>14</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>19</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>51</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>150</Width>
+								<Order>15</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>51</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>13</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>70</Width>
+								<Order>16</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>13</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>18</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>747</Width>
+								<Order>17</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>18</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>39</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>400</Width>
+								<Order>18</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>39</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>40</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>300</Width>
+								<Order>19</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>40</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>26</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>85</Width>
+								<Order>20</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>26</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>31</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>180</Width>
+								<Order>21</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>31</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>28</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>125</Width>
+								<Order>22</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>28</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>38</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>180</Width>
+								<Order>23</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>38</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>21</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>115</Width>
+								<Order>24</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>21</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>6</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>85</Width>
+								<Order>25</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>6</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>17</ViewType>
+						<Alignment>2</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>60</Width>
+								<Order>26</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>17</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>32</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>96</Width>
+								<Order>27</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>32</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>29</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>180</Width>
+								<Order>28</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>29</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>41</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>280</Width>
+								<Order>29</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>41</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>27</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>85</Width>
+								<Order>30</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>27</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>48</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>150</Width>
+								<Order>31</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>48</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+				</Value>
+			</Item>
+			<Item>
+				<Key>{DD20B240-34EB-4383-BE9C-308469214818}</Key>
+				<Value Type="TViewTypeListColumns">
+					<Item Type="TColumn">
+						<ViewType>0</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>True</Visible>
+								<Width>150</Width>
+								<Order>0</Order>
+								<Fixed>True</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>0</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>16</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>True</Visible>
+								<Width>280</Width>
+								<Order>1</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>16</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>1</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>280</Width>
+								<Order>2</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>1</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>7</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>55</Width>
+								<Order>3</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>7</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>2</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>True</Visible>
+								<Width>85</Width>
+								<Order>4</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>2</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>3</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>85</Width>
+								<Order>5</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>3</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>9</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>True</Visible>
+								<Width>96</Width>
+								<Order>6</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>9</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>10</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>96</Width>
+								<Order>7</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>10</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>11</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>96</Width>
+								<Order>8</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>11</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>52</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>True</Visible>
+								<Width>150</Width>
+								<Order>9</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>52</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>12</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>125</Width>
+								<Order>10</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>12</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>14</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>140</Width>
+								<Order>11</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>14</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>15</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>80</Width>
+								<Order>12</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>15</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>37</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>96</Width>
+								<Order>13</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>37</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>19</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>55</Width>
+								<Order>14</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>19</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>51</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>150</Width>
+								<Order>15</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>51</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>13</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>70</Width>
+								<Order>16</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>13</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>18</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>500</Width>
+								<Order>17</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>18</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>39</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>400</Width>
+								<Order>18</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>39</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>40</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>300</Width>
+								<Order>19</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>40</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>26</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>85</Width>
+								<Order>20</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>26</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>31</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>180</Width>
+								<Order>21</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>31</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>28</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>125</Width>
+								<Order>22</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>28</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>38</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>180</Width>
+								<Order>23</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>38</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>21</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>115</Width>
+								<Order>24</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>21</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>6</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>85</Width>
+								<Order>25</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>6</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>17</ViewType>
+						<Alignment>2</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>60</Width>
+								<Order>26</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>17</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>32</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>96</Width>
+								<Order>27</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>32</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>29</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>180</Width>
+								<Order>28</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>29</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>41</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>280</Width>
+								<Order>29</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>41</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>27</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>85</Width>
+								<Order>30</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>27</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>48</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>150</Width>
+								<Order>31</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>48</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+				</Value>
+			</Item>
+			<Item>
+				<Key>{0CF322A0-B424-423D-BFB6-F3A61CFAB4E0}</Key>
+				<Value Type="TViewTypeListColumns">
+					<Item Type="TColumn">
+						<ViewType>0</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>True</Visible>
+								<Width>150</Width>
+								<Order>0</Order>
+								<Fixed>True</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>0</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>16</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>True</Visible>
+								<Width>280</Width>
+								<Order>1</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>16</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>1</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>280</Width>
+								<Order>2</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>1</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>7</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>True</Visible>
+								<Width>55</Width>
+								<Order>3</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>7</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>2</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>True</Visible>
+								<Width>85</Width>
+								<Order>4</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>2</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>3</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>85</Width>
+								<Order>5</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>3</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>9</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>True</Visible>
+								<Width>96</Width>
+								<Order>6</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>9</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>10</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>96</Width>
+								<Order>7</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>10</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>11</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>96</Width>
+								<Order>8</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>11</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>52</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>150</Width>
+								<Order>9</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>52</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>12</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>125</Width>
+								<Order>10</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>12</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>14</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>140</Width>
+								<Order>11</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>14</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>15</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>80</Width>
+								<Order>12</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>15</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>37</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>96</Width>
+								<Order>13</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>37</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>19</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>55</Width>
+								<Order>14</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>19</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>51</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>150</Width>
+								<Order>15</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>51</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>13</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>70</Width>
+								<Order>16</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>13</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>18</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>500</Width>
+								<Order>17</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>18</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>39</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>400</Width>
+								<Order>18</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>39</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>40</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>300</Width>
+								<Order>19</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>40</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>26</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>85</Width>
+								<Order>20</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>26</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>31</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>180</Width>
+								<Order>21</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>31</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>28</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>125</Width>
+								<Order>22</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>28</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>38</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>180</Width>
+								<Order>23</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>38</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>21</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>115</Width>
+								<Order>24</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>21</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>6</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>85</Width>
+								<Order>25</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>6</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>17</ViewType>
+						<Alignment>2</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>60</Width>
+								<Order>26</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>17</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>32</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>96</Width>
+								<Order>27</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>32</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>29</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>180</Width>
+								<Order>28</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>29</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>41</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>280</Width>
+								<Order>29</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>41</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>27</ViewType>
+						<Alignment>1</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>85</Width>
+								<Order>30</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>27</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+					<Item Type="TColumn">
+						<ViewType>48</ViewType>
+						<Alignment>0</Alignment>
+						<Media Type="TColumnInfoCollection">
+							<Item Type="TColumnInfo">
+								<Visible>False</Visible>
+								<Width>150</Width>
+								<Order>31</Order>
+								<Fixed>False</Fixed>
+							</Item>
+						</Media>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>48</pid>
+							</Column>
+						</MetaData>
+						<SanitizeWhenHidden>False</SanitizeWhenHidden>
+					</Item>
+				</Value>
+			</Item>
+		</ListPresenterColumns>
+		<Media Type="TMediaOptions">
+			<Item>
+				<Key>0</Key>
+				<Value Type="TMediaSettings">
+					<HeaderSettings>1</HeaderSettings>
+					<UseHyperLinks>1</UseHyperLinks>
+					<AppendtoFiles>False</AppendtoFiles>
+					<ExpandableReport>False</ExpandableReport>
+					<ListSeparatorEnum>0</ListSeparatorEnum>
+					<UseDetailsViewColumns>False</UseDetailsViewColumns>
+					<PresenterIDs>
+						<Item>{2B51C689-03FB-4A5B-86AB-21A3DA602335}</Item>
+					</PresenterIDs>
+					<UseBoldTextAndColors>False</UseBoldTextAndColors>
+					<PrintMargins>
+						<Left>100</Left>
+						<Top>100</Top>
+						<Right>100</Right>
+						<Bottom>100</Bottom>
+						<TopLeft>
+							<X>100</X>
+							<Y>100</Y>
+						</TopLeft>
+						<BottomRight>
+							<X>100</X>
+							<Y>100</Y>
+						</BottomRight>
+					</PrintMargins>
+					<RecursionLevel>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>19</pid>
+							</Column>
+						</MetaData>
+						<Value>2147483647</Value>
+						<IncludeExpandedOnly>False</IncludeExpandedOnly>
+						<IncludeInitializedOnly>False</IncludeInitializedOnly>
+						<MarkState>0</MarkState>
+						<QueryablePresenter></QueryablePresenter>
+						<HierarchicalObjectTypes>5</HierarchicalObjectTypes>
+						<FilterSmallerThan>0</FilterSmallerThan>
+						<FilterSmallerThanMetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>3</pid>
+							</Column>
+						</FilterSmallerThanMetaData>
+						<FlatListOnly>False</FlatListOnly>
+					</RecursionLevel>
+				</Value>
+			</Item>
+			<Item>
+				<Key>1</Key>
+				<Value Type="TMediaSettings">
+					<HeaderSettings>1</HeaderSettings>
+					<IncludeUnits>False</IncludeUnits>
+					<SizeUnit>6</SizeUnit>
+					<UseHyperLinks>1</UseHyperLinks>
+					<AppendtoFiles>False</AppendtoFiles>
+					<ExpandableReport>False</ExpandableReport>
+					<ListSeparatorEnum>0</ListSeparatorEnum>
+					<UseDetailsViewColumns>True</UseDetailsViewColumns>
+					<PresenterIDs>
+						<Item>{2B51C689-03FB-4A5B-86AB-21A3DA602335}</Item>
+					</PresenterIDs>
+					<UseBoldTextAndColors>False</UseBoldTextAndColors>
+					<PrintMargins>
+						<Left>100</Left>
+						<Top>100</Top>
+						<Right>100</Right>
+						<Bottom>100</Bottom>
+						<TopLeft>
+							<X>100</X>
+							<Y>100</Y>
+						</TopLeft>
+						<BottomRight>
+							<X>100</X>
+							<Y>100</Y>
+						</BottomRight>
+					</PrintMargins>
+					<RecursionLevel>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>19</pid>
+							</Column>
+						</MetaData>
+						<Value>2147483647</Value>
+						<IncludeExpandedOnly>True</IncludeExpandedOnly>
+						<IncludeInitializedOnly>False</IncludeInitializedOnly>
+						<MarkState>0</MarkState>
+						<QueryablePresenter></QueryablePresenter>
+						<HierarchicalObjectTypes>5</HierarchicalObjectTypes>
+						<FilterSmallerThan>0</FilterSmallerThan>
+						<FilterSmallerThanMetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>3</pid>
+							</Column>
+						</FilterSmallerThanMetaData>
+						<FlatListOnly>False</FlatListOnly>
+					</RecursionLevel>
+				</Value>
+			</Item>
+			<Item>
+				<Key>2</Key>
+				<Value Type="TMediaSettings">
+					<HeaderSettings>1</HeaderSettings>
+					<IncludeUnits>False</IncludeUnits>
+					<SizeUnit>6</SizeUnit>
+					<UseHyperLinks>1</UseHyperLinks>
+					<AppendtoFiles>False</AppendtoFiles>
+					<ExpandableReport>False</ExpandableReport>
+					<ListSeparatorEnum>0</ListSeparatorEnum>
+					<UseDetailsViewColumns>True</UseDetailsViewColumns>
+					<PresenterIDs>
+						<Item>{2B51C689-03FB-4A5B-86AB-21A3DA602335}</Item>
+					</PresenterIDs>
+					<UseBoldTextAndColors>False</UseBoldTextAndColors>
+					<PrintMargins>
+						<Left>100</Left>
+						<Top>100</Top>
+						<Right>100</Right>
+						<Bottom>100</Bottom>
+						<TopLeft>
+							<X>100</X>
+							<Y>100</Y>
+						</TopLeft>
+						<BottomRight>
+							<X>100</X>
+							<Y>100</Y>
+						</BottomRight>
+					</PrintMargins>
+					<RecursionLevel>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>19</pid>
+							</Column>
+						</MetaData>
+						<Value>2147483647</Value>
+						<IncludeExpandedOnly>True</IncludeExpandedOnly>
+						<IncludeInitializedOnly>False</IncludeInitializedOnly>
+						<MarkState>0</MarkState>
+						<QueryablePresenter></QueryablePresenter>
+						<HierarchicalObjectTypes>5</HierarchicalObjectTypes>
+						<FilterSmallerThan>0</FilterSmallerThan>
+						<FilterSmallerThanMetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>3</pid>
+							</Column>
+						</FilterSmallerThanMetaData>
+						<FlatListOnly>False</FlatListOnly>
+					</RecursionLevel>
+				</Value>
+			</Item>
+			<Item>
+				<Key>3</Key>
+				<Value Type="TMediaSettings">
+					<HeaderSettings>1</HeaderSettings>
+					<IncludeUnits>False</IncludeUnits>
+					<SizeUnit>6</SizeUnit>
+					<UseHyperLinks>1</UseHyperLinks>
+					<AppendtoFiles>False</AppendtoFiles>
+					<ExpandableReport>False</ExpandableReport>
+					<ListSeparatorEnum>0</ListSeparatorEnum>
+					<UseDetailsViewColumns>True</UseDetailsViewColumns>
+					<PresenterIDs>
+						<Item>{2B51C689-03FB-4A5B-86AB-21A3DA602335}</Item>
+						<Item>{5150E69B-0BFC-4B40-ACBA-08C1067CF840}</Item>
+					</PresenterIDs>
+					<UseBoldTextAndColors>False</UseBoldTextAndColors>
+					<PrintMargins>
+						<Left>100</Left>
+						<Top>100</Top>
+						<Right>100</Right>
+						<Bottom>100</Bottom>
+						<TopLeft>
+							<X>100</X>
+							<Y>100</Y>
+						</TopLeft>
+						<BottomRight>
+							<X>100</X>
+							<Y>100</Y>
+						</BottomRight>
+					</PrintMargins>
+					<RecursionLevel>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>19</pid>
+							</Column>
+						</MetaData>
+						<Value>2147483647</Value>
+						<IncludeExpandedOnly>True</IncludeExpandedOnly>
+						<IncludeInitializedOnly>False</IncludeInitializedOnly>
+						<MarkState>0</MarkState>
+						<QueryablePresenter></QueryablePresenter>
+						<HierarchicalObjectTypes>5</HierarchicalObjectTypes>
+						<FilterSmallerThan>0</FilterSmallerThan>
+						<FilterSmallerThanMetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>3</pid>
+							</Column>
+						</FilterSmallerThanMetaData>
+						<FlatListOnly>False</FlatListOnly>
+					</RecursionLevel>
+				</Value>
+			</Item>
+			<Item>
+				<Key>4</Key>
+				<Value Type="TMediaSettings">
+					<HeaderSettings>1</HeaderSettings>
+					<IncludeUnits>False</IncludeUnits>
+					<SizeUnit>6</SizeUnit>
+					<UseHyperLinks>1</UseHyperLinks>
+					<AppendtoFiles>False</AppendtoFiles>
+					<ExpandableReport>True</ExpandableReport>
+					<ListSeparatorEnum>0</ListSeparatorEnum>
+					<UseDetailsViewColumns>True</UseDetailsViewColumns>
+					<PresenterIDs>
+						<Item>{2B51C689-03FB-4A5B-86AB-21A3DA602335}</Item>
+						<Item>{5150E69B-0BFC-4B40-ACBA-08C1067CF840}</Item>
+					</PresenterIDs>
+					<UseBoldTextAndColors>False</UseBoldTextAndColors>
+					<PrintMargins>
+						<Left>100</Left>
+						<Top>100</Top>
+						<Right>100</Right>
+						<Bottom>100</Bottom>
+						<TopLeft>
+							<X>100</X>
+							<Y>100</Y>
+						</TopLeft>
+						<BottomRight>
+							<X>100</X>
+							<Y>100</Y>
+						</BottomRight>
+					</PrintMargins>
+					<RecursionLevel>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>19</pid>
+							</Column>
+						</MetaData>
+						<Value>2147483647</Value>
+						<IncludeExpandedOnly>False</IncludeExpandedOnly>
+						<IncludeInitializedOnly>False</IncludeInitializedOnly>
+						<MarkState>0</MarkState>
+						<QueryablePresenter></QueryablePresenter>
+						<HierarchicalObjectTypes>5</HierarchicalObjectTypes>
+						<FilterSmallerThan>0</FilterSmallerThan>
+						<FilterSmallerThanMetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>3</pid>
+							</Column>
+						</FilterSmallerThanMetaData>
+						<FlatListOnly>False</FlatListOnly>
+					</RecursionLevel>
+				</Value>
+			</Item>
+			<Item>
+				<Key>5</Key>
+				<Value Type="TMediaSettings">
+					<HeaderSettings>1</HeaderSettings>
+					<IncludeUnits>False</IncludeUnits>
+					<SizeUnit>6</SizeUnit>
+					<UseHyperLinks>1</UseHyperLinks>
+					<AppendtoFiles>False</AppendtoFiles>
+					<ExpandableReport>False</ExpandableReport>
+					<ListSeparatorEnum>0</ListSeparatorEnum>
+					<UseDetailsViewColumns>True</UseDetailsViewColumns>
+					<PresenterIDs>
+						<Item>{2B51C689-03FB-4A5B-86AB-21A3DA602335}</Item>
+					</PresenterIDs>
+					<UseBoldTextAndColors>False</UseBoldTextAndColors>
+					<PrintMargins>
+						<Left>100</Left>
+						<Top>100</Top>
+						<Right>100</Right>
+						<Bottom>100</Bottom>
+						<TopLeft>
+							<X>100</X>
+							<Y>100</Y>
+						</TopLeft>
+						<BottomRight>
+							<X>100</X>
+							<Y>100</Y>
+						</BottomRight>
+					</PrintMargins>
+					<RecursionLevel>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>19</pid>
+							</Column>
+						</MetaData>
+						<Value>2147483647</Value>
+						<IncludeExpandedOnly>True</IncludeExpandedOnly>
+						<IncludeInitializedOnly>False</IncludeInitializedOnly>
+						<MarkState>0</MarkState>
+						<QueryablePresenter></QueryablePresenter>
+						<HierarchicalObjectTypes>5</HierarchicalObjectTypes>
+						<FilterSmallerThan>0</FilterSmallerThan>
+						<FilterSmallerThanMetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>3</pid>
+							</Column>
+						</FilterSmallerThanMetaData>
+						<FlatListOnly>False</FlatListOnly>
+					</RecursionLevel>
+				</Value>
+			</Item>
+			<Item>
+				<Key>6</Key>
+				<Value Type="TMediaSettings">
+					<HeaderSettings>1</HeaderSettings>
+					<IncludeUnits>False</IncludeUnits>
+					<SizeUnit>6</SizeUnit>
+					<UseHyperLinks>1</UseHyperLinks>
+					<AppendtoFiles>False</AppendtoFiles>
+					<ExpandableReport>False</ExpandableReport>
+					<ListSeparatorEnum>0</ListSeparatorEnum>
+					<UseDetailsViewColumns>False</UseDetailsViewColumns>
+					<PresenterIDs>
+						<Item>{2B51C689-03FB-4A5B-86AB-21A3DA602335}</Item>
+					</PresenterIDs>
+					<UseBoldTextAndColors>False</UseBoldTextAndColors>
+					<PrintMargins>
+						<Left>100</Left>
+						<Top>100</Top>
+						<Right>100</Right>
+						<Bottom>100</Bottom>
+						<TopLeft>
+							<X>100</X>
+							<Y>100</Y>
+						</TopLeft>
+						<BottomRight>
+							<X>100</X>
+							<Y>100</Y>
+						</BottomRight>
+					</PrintMargins>
+					<RecursionLevel>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>19</pid>
+							</Column>
+						</MetaData>
+						<Value>2147483647</Value>
+						<IncludeExpandedOnly>False</IncludeExpandedOnly>
+						<IncludeInitializedOnly>False</IncludeInitializedOnly>
+						<MarkState>0</MarkState>
+						<QueryablePresenter></QueryablePresenter>
+						<HierarchicalObjectTypes>5</HierarchicalObjectTypes>
+						<FilterSmallerThan>0</FilterSmallerThan>
+						<FilterSmallerThanMetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>3</pid>
+							</Column>
+						</FilterSmallerThanMetaData>
+						<FlatListOnly>False</FlatListOnly>
+					</RecursionLevel>
+				</Value>
+			</Item>
+			<Item>
+				<Key>7</Key>
+				<Value Type="TMediaSettings">
+					<HeaderSettings>1</HeaderSettings>
+					<IncludeUnits>False</IncludeUnits>
+					<SizeUnit>6</SizeUnit>
+					<UseHyperLinks>1</UseHyperLinks>
+					<AppendtoFiles>False</AppendtoFiles>
+					<ExpandableReport>False</ExpandableReport>
+					<ListSeparatorEnum>0</ListSeparatorEnum>
+					<UseDetailsViewColumns>True</UseDetailsViewColumns>
+					<PresenterIDs>
+						<Item>{2B51C689-03FB-4A5B-86AB-21A3DA602335}</Item>
+					</PresenterIDs>
+					<UseBoldTextAndColors>False</UseBoldTextAndColors>
+					<PrintMargins>
+						<Left>100</Left>
+						<Top>100</Top>
+						<Right>100</Right>
+						<Bottom>100</Bottom>
+						<TopLeft>
+							<X>100</X>
+							<Y>100</Y>
+						</TopLeft>
+						<BottomRight>
+							<X>100</X>
+							<Y>100</Y>
+						</BottomRight>
+					</PrintMargins>
+					<RecursionLevel>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>19</pid>
+							</Column>
+						</MetaData>
+						<Value>2147483647</Value>
+						<IncludeExpandedOnly>True</IncludeExpandedOnly>
+						<IncludeInitializedOnly>False</IncludeInitializedOnly>
+						<MarkState>0</MarkState>
+						<QueryablePresenter></QueryablePresenter>
+						<HierarchicalObjectTypes>5</HierarchicalObjectTypes>
+						<FilterSmallerThan>0</FilterSmallerThan>
+						<FilterSmallerThanMetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>3</pid>
+							</Column>
+						</FilterSmallerThanMetaData>
+						<FlatListOnly>False</FlatListOnly>
+					</RecursionLevel>
+				</Value>
+			</Item>
+			<Item>
+				<Key>8</Key>
+				<Value Type="TMediaSettings">
+					<HeaderSettings>1</HeaderSettings>
+					<IncludeUnits>False</IncludeUnits>
+					<SizeUnit>6</SizeUnit>
+					<UseHyperLinks>1</UseHyperLinks>
+					<AppendtoFiles>False</AppendtoFiles>
+					<ExpandableReport>False</ExpandableReport>
+					<ListSeparatorEnum>0</ListSeparatorEnum>
+					<UseDetailsViewColumns>True</UseDetailsViewColumns>
+					<PresenterIDs>
+						<Item>{2B51C689-03FB-4A5B-86AB-21A3DA602335}</Item>
+					</PresenterIDs>
+					<UseBoldTextAndColors>False</UseBoldTextAndColors>
+					<PrintMargins>
+						<Left>100</Left>
+						<Top>100</Top>
+						<Right>100</Right>
+						<Bottom>100</Bottom>
+						<TopLeft>
+							<X>100</X>
+							<Y>100</Y>
+						</TopLeft>
+						<BottomRight>
+							<X>100</X>
+							<Y>100</Y>
+						</BottomRight>
+					</PrintMargins>
+					<RecursionLevel>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>19</pid>
+							</Column>
+						</MetaData>
+						<Value>2147483647</Value>
+						<IncludeExpandedOnly>True</IncludeExpandedOnly>
+						<IncludeInitializedOnly>False</IncludeInitializedOnly>
+						<MarkState>0</MarkState>
+						<QueryablePresenter></QueryablePresenter>
+						<HierarchicalObjectTypes>5</HierarchicalObjectTypes>
+						<FilterSmallerThan>0</FilterSmallerThan>
+						<FilterSmallerThanMetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>3</pid>
+							</Column>
+						</FilterSmallerThanMetaData>
+						<FlatListOnly>False</FlatListOnly>
+					</RecursionLevel>
+				</Value>
+			</Item>
+			<Item>
+				<Key>9</Key>
+				<Value Type="TMediaSettings">
+					<HeaderSettings>1</HeaderSettings>
+					<IncludeUnits>False</IncludeUnits>
+					<SizeUnit>6</SizeUnit>
+					<UseHyperLinks>1</UseHyperLinks>
+					<AppendtoFiles>False</AppendtoFiles>
+					<ExpandableReport>False</ExpandableReport>
+					<ListSeparatorEnum>0</ListSeparatorEnum>
+					<UseDetailsViewColumns>True</UseDetailsViewColumns>
+					<PresenterIDs>
+						<Item>{2B51C689-03FB-4A5B-86AB-21A3DA602335}</Item>
+						<Item>{5150E69B-0BFC-4B40-ACBA-08C1067CF840}</Item>
+					</PresenterIDs>
+					<UseBoldTextAndColors>False</UseBoldTextAndColors>
+					<PrintMargins>
+						<Left>100</Left>
+						<Top>100</Top>
+						<Right>100</Right>
+						<Bottom>100</Bottom>
+						<TopLeft>
+							<X>100</X>
+							<Y>100</Y>
+						</TopLeft>
+						<BottomRight>
+							<X>100</X>
+							<Y>100</Y>
+						</BottomRight>
+					</PrintMargins>
+					<RecursionLevel>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>19</pid>
+							</Column>
+						</MetaData>
+						<Value>2147483647</Value>
+						<IncludeExpandedOnly>True</IncludeExpandedOnly>
+						<IncludeInitializedOnly>False</IncludeInitializedOnly>
+						<MarkState>0</MarkState>
+						<QueryablePresenter></QueryablePresenter>
+						<HierarchicalObjectTypes>5</HierarchicalObjectTypes>
+						<FilterSmallerThan>0</FilterSmallerThan>
+						<FilterSmallerThanMetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>3</pid>
+							</Column>
+						</FilterSmallerThanMetaData>
+						<FlatListOnly>False</FlatListOnly>
+					</RecursionLevel>
+				</Value>
+			</Item>
+		</Media>
+		<LastUsedFileOperationOptions>
+			<Destination></Destination>
+			<DestinationRoot></DestinationRoot>
+			<OperationType>0</OperationType>
+			<Flags>0</Flags>
+			<CollisionBehavior>0</CollisionBehavior>
+			<PreserveDirLevel>0</PreserveDirLevel>
+			<CreateLogFile>False</CreateLogFile>
+			<CreateUndoScript>False</CreateUndoScript>
+			<LogFileName></LogFileName>
+			<UndoScriptName></UndoScriptName>
+			<OriginalDestination></OriginalDestination>
+		</LastUsedFileOperationOptions>
+		<AutoCheckResults>False</AutoCheckResults>
+		<OrientationLandscape>False</OrientationLandscape>
+		<SaveDuplicatesWithGroups>True</SaveDuplicatesWithGroups>
+		<TraverseContainerFiles>False</TraverseContainerFiles>
+		<UseSimpleMailBody>True</UseSimpleMailBody>
+		<SingleThreadedFileOperations>False</SingleThreadedFileOperations>
+		<ShowIFilterNotRegisteredWarning>True</ShowIFilterNotRegisteredWarning>
+		<LastSelectedPath>Y:\</LastSelectedPath>
+		<UseRibbonUI>True</UseRibbonUI>
+		<ExportFontSize>32</ExportFontSize>
+		<ShowDrivesPanel>True</ShowDrivesPanel>
+		<DateTimeFormat>0</DateTimeFormat>
+		<SizeUnit>5</SizeUnit>
+		<Decimals>1</Decimals>
+		<AclStringFormat>0</AclStringFormat>
+		<EnableDragDrop>True</EnableDragDrop>
+		<TreemapEnableDragDrop>True</TreemapEnableDragDrop>
+		<NextCouponCodeDate>0</NextCouponCodeDate>
+		<ShowGridLines>False</ShowGridLines>
+		<PDFEmbedFonts>False</PDFEmbedFonts>
+		<ThemedContextMenus>True</ThemedContextMenus>
+		<SSHTimeOut>60000</SSHTimeOut>
+		<DoNotAskAgainList Type="TSerializableStringIntDictionary"></DoNotAskAgainList>
+		<MessageLevel>0</MessageLevel>
+		<ThreadPriority>3</ThreadPriority>
+		<CheckForUpdateOptions Type="TCheckForUpdateOptions">
+			<LatestOnlineVersion>-1</LatestOnlineVersion>
+			<LastAutomaticCheckForUpdate>44733.4930717708</LastAutomaticCheckForUpdate>
+			<CheckForUpdatesAutomatically>True</CheckForUpdatesAutomatically>
+		</CheckForUpdateOptions>
+		<Tag>0</Tag>
+	</GlobalOptions>
+	<TToggleControlAction.TogglePreviewPaneAction.Left>652</TToggleControlAction.TogglePreviewPaneAction.Left>
+	<TToggleControlAction.TogglePreviewPaneAction.Visible>False</TToggleControlAction.TogglePreviewPaneAction.Visible>
+	<TToggleControlAction.TogglePreviewPaneAction.Top>0</TToggleControlAction.TogglePreviewPaneAction.Top>
+	<TToggleControlAction.TogglePreviewPaneAction.Height>502</TToggleControlAction.TogglePreviewPaneAction.Height>
+	<TToggleControlAction.TogglePreviewPaneAction.Width>185</TToggleControlAction.TogglePreviewPaneAction.Width>
+	<DuplicatesIgnoreHardLinks>False</DuplicatesIgnoreHardLinks>
+	<DuplicatesCompareMetaDataArray>
+		<Item>
+			<Column>
+				<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+				<pid>28</pid>
+			</Column>
+		</Item>
+	</DuplicatesCompareMetaDataArray>
+	<DuplicatesSmallCheckSumSize>20971520</DuplicatesSmallCheckSumSize>
+	<ExcludeOfflineFiles>True</ExcludeOfflineFiles>
+	<CustomSearchOptionsList Type="TTSPFileMatchOptionsList">
+		<Item Type="TTSPFileMatchOptions">
+			<Key>{E65978EA-DA70-4A3E-AE99-30B358532CA5}</Key>
+			<FilesAndFolders>2</FilesAndFolders>
+			<Title>Advanced Search</Title>
+			<PersistedExpressionTree Type="TContainerExpression">
+				<Item Type="TExpressionOr">
+					<Item Type="TStringExpression">
+						<Value>s-</Value>
+						<Operator>1</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>12</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+				</Item>
+			</PersistedExpressionTree>
+			<TopmostMatchesOnly>False</TopmostMatchesOnly>
+			<ForgetSettings>False</ForgetSettings>
+		</Item>
+	</CustomSearchOptionsList>
+	<PersistedDuplicatesExpressionTree Type="TContainerExpression">
+		<Item Type="TExpressionAnd">
+			<Item Type="TSizeExpression">
+				<Value>10485760</Value>
+				<Operator>4</Operator>
+				<MetaData>
+					<Column>
+						<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+						<pid>2</pid>
+					</Column>
+				</MetaData>
+				<Negated>False</Negated>
+				<Active>True</Active>
+			</Item>
+		</Item>
+	</PersistedDuplicatesExpressionTree>
+	<UseExcludeFilterIDs></UseExcludeFilterIDs>
+	<ActiveSearchIDs>
+		<Item>{E65978EA-DA70-4A3E-AE99-30B358532CA5}</Item>
+	</ActiveSearchIDs>
+	<PersistedGlobalExcludeExpressions Type="TContainerExpression">
+		<Item Type="TExpressionOr">
+			<Item Type="TStringExpression">
+				<Value>%SystemRoot%\</Value>
+				<Operator>4</Operator>
+				<MetaData>
+					<Column>
+						<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+						<pid>1</pid>
+					</Column>
+				</MetaData>
+				<Negated>False</Negated>
+				<Active>True</Active>
+			</Item>
+			<Item Type="TStringExpression">
+				<Value>*\$Recycle.Bin*</Value>
+				<Operator>4</Operator>
+				<MetaData>
+					<Column>
+						<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+						<pid>1</pid>
+					</Column>
+				</MetaData>
+				<Negated>False</Negated>
+				<Active>True</Active>
+			</Item>
+		</Item>
+	</PersistedGlobalExcludeExpressions>
+	<ScanPaths Type="TStringList">
+		<Item>-C:\</Item>
+		<Item>-K:\</Item>
+		<Item>-L:\</Item>
+		<Item>-M:\</Item>
+		<Item>-N:\</Item>
+		<Item>-O:\</Item>
+		<Item>-P:\</Item>
+		<Item>-Q:\</Item>
+		<Item>-R:\</Item>
+		<Item>-S:\</Item>
+		<Item>-T:\</Item>
+		<Item>-U:\</Item>
+		<Item>-V:\</Item>
+		<Item>-W:\</Item>
+		<Item>-W:\Davies</Item>
+		<Item>-X:\</Item>
+		<Item>Y:\</Item>
+		<Item>-Z:\</Item>
+		<Item>-Z:\DCRC Education Study</Item>
+		<Item>-\\ressvm01\cdsc</Item>
+		<Item>-\\ressvm01\csdc</Item>
+	</ScanPaths>
+	<FollowReparsePoints>False</FollowReparsePoints>
+	<DeduplicateLogOperations>True</DeduplicateLogOperations>
+	<DeduplicateLogFile>C:\Users\tjw900\AppData\Roaming\JAM Software\TreeSize\DeduplicationLog.txt</DeduplicateLogFile>
+	<DeduplicateUseSymLinksForOtherDrives>True</DeduplicateUseSymLinksForOtherDrives>
+	<DeduplicateReferenceDrive></DeduplicateReferenceDrive>
+	<UncheckedPathsInDriveListPanel Type="TStringList"></UncheckedPathsInDriveListPanel>
+	<EnsureOneUncheckedDuplicate>False</EnsureOneUncheckedDuplicate>
+	<BasicSearchOptions Type="TTSPFileMatchOptions">
+		<FilesAndFolders>0</FilesAndFolders>
+		<Title>Basic Search</Title>
+		<PersistedExpressionTree Type="TContainerExpression"></PersistedExpressionTree>
+		<TopmostMatchesOnly>False</TopmostMatchesOnly>
+		<ForgetSettings>False</ForgetSettings>
+	</BasicSearchOptions>
+	<BasicSearchHistory Type="TRecentlyUsedStrings"></BasicSearchHistory>
+	<BasicSearchLastUsed></BasicSearchLastUsed>
+	<DuplicatesSearchMode>0</DuplicatesSearchMode>
+	<Templates Type="TTemplatesList">
+		<Item Type="TTSPFileMatchOptions">
+			<FilesAndFolders>0</FilesAndFolders>
+			<Title>Large files</Title>
+			<PersistedExpressionTree Type="TContainerExpression">
+				<Item Type="TExpressionAnd">
+					<Item Type="TSizeExpression">
+						<Value>10485760</Value>
+						<Operator>4</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>2</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+				</Item>
+			</PersistedExpressionTree>
+			<TopmostMatchesOnly>False</TopmostMatchesOnly>
+			<ForgetSettings>False</ForgetSettings>
+		</Item>
+		<Item Type="TTSPFileMatchOptions">
+			<FilesAndFolders>0</FilesAndFolders>
+			<Title>Recently created</Title>
+			<PersistedExpressionTree Type="TContainerExpression">
+				<Item Type="TExpressionAnd">
+					<Item Type="TTimespanExpression">
+						<Value>
+							<fRelative>True</fRelative>
+							<fDateFrom>0</fDateFrom>
+							<fDateTo>0</fDateTo>
+							<fTimespanStart>
+								<fValue>
+									<dwLowDateTime>0</dwLowDateTime>
+									<dwHighDateTime>0</dwHighDateTime>
+									<Date>0</Date>
+								</fValue>
+								<fHasValue></fHasValue>
+							</fTimespanStart>
+							<fTimespanEnd>
+								<fValue>
+									<dwLowDateTime>0</dwLowDateTime>
+									<dwHighDateTime>0</dwHighDateTime>
+									<Date>0</Date>
+								</fValue>
+								<fHasValue></fHasValue>
+							</fTimespanEnd>
+							<fIntervalUnit>1</fIntervalUnit>
+							<fOffsetFromToday>0</fOffsetFromToday>
+							<fIntervalLength>1</fIntervalLength>
+							<fUseExactInterval>False</fUseExactInterval>
+						</Value>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>11</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+				</Item>
+			</PersistedExpressionTree>
+			<TopmostMatchesOnly>False</TopmostMatchesOnly>
+			<ForgetSettings>False</ForgetSettings>
+		</Item>
+		<Item Type="TTSPFileMatchOptions">
+			<FilesAndFolders>0</FilesAndFolders>
+			<Title>Modified long time ago</Title>
+			<PersistedExpressionTree Type="TContainerExpression">
+				<Item Type="TExpressionAnd">
+					<Item Type="TTimespanExpression">
+						<Value>
+							<fRelative>True</fRelative>
+							<fDateFrom>0</fDateFrom>
+							<fDateTo>0</fDateTo>
+							<fTimespanStart>
+								<fValue>
+									<dwLowDateTime>0</dwLowDateTime>
+									<dwHighDateTime>0</dwHighDateTime>
+									<Date>0</Date>
+								</fValue>
+								<fHasValue></fHasValue>
+							</fTimespanStart>
+							<fTimespanEnd>
+								<fValue>
+									<dwLowDateTime>0</dwLowDateTime>
+									<dwHighDateTime>0</dwHighDateTime>
+									<Date>0</Date>
+								</fValue>
+								<fHasValue></fHasValue>
+							</fTimespanEnd>
+							<fIntervalUnit>3</fIntervalUnit>
+							<fOffsetFromToday>0</fOffsetFromToday>
+							<fIntervalLength>5</fIntervalLength>
+							<fUseExactInterval>False</fUseExactInterval>
+						</Value>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>9</pid>
+							</Column>
+						</MetaData>
+						<Negated>True</Negated>
+						<Active>True</Active>
+					</Item>
+				</Item>
+			</PersistedExpressionTree>
+			<TopmostMatchesOnly>False</TopmostMatchesOnly>
+			<ForgetSettings>False</ForgetSettings>
+		</Item>
+		<Item Type="TTSPFileMatchOptions">
+			<FilesAndFolders>0</FilesAndFolders>
+			<Title>Large files modified long time ago</Title>
+			<PersistedExpressionTree Type="TContainerExpression">
+				<Item Type="TExpressionAnd">
+					<Item Type="TTimespanExpression">
+						<Value>
+							<fRelative>True</fRelative>
+							<fDateFrom>0</fDateFrom>
+							<fDateTo>0</fDateTo>
+							<fTimespanStart>
+								<fValue>
+									<dwLowDateTime>0</dwLowDateTime>
+									<dwHighDateTime>0</dwHighDateTime>
+									<Date>0</Date>
+								</fValue>
+								<fHasValue></fHasValue>
+							</fTimespanStart>
+							<fTimespanEnd>
+								<fValue>
+									<dwLowDateTime>0</dwLowDateTime>
+									<dwHighDateTime>0</dwHighDateTime>
+									<Date>0</Date>
+								</fValue>
+								<fHasValue></fHasValue>
+							</fTimespanEnd>
+							<fIntervalUnit>3</fIntervalUnit>
+							<fOffsetFromToday>0</fOffsetFromToday>
+							<fIntervalLength>5</fIntervalLength>
+							<fUseExactInterval>False</fUseExactInterval>
+						</Value>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>9</pid>
+							</Column>
+						</MetaData>
+						<Negated>True</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TSizeExpression">
+						<Value>52428800</Value>
+						<Operator>3</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>2</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+				</Item>
+			</PersistedExpressionTree>
+			<TopmostMatchesOnly>False</TopmostMatchesOnly>
+			<ForgetSettings>False</ForgetSettings>
+		</Item>
+		<Item Type="TTSPFileMatchOptions">
+			<FilesAndFolders>0</FilesAndFolders>
+			<Title>Specific file type (e.g. Audio Files)</Title>
+			<PersistedExpressionTree Type="TContainerExpression">
+				<Item Type="TExpressionOr">
+					<Item Type="TFileTypeGroupExpression">
+						<Value>Audio Files</Value>
+						<Operator>0</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{B0461F53-EAF6-4DA1-B879-BEA641BF670E}</fmtid>
+								<pid>56</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+				</Item>
+			</PersistedExpressionTree>
+			<TopmostMatchesOnly>False</TopmostMatchesOnly>
+			<ForgetSettings>False</ForgetSettings>
+		</Item>
+		<Item Type="TTSPFileMatchOptions">
+			<FilesAndFolders>0</FilesAndFolders>
+			<Title>Temporary Files</Title>
+			<PersistedExpressionTree Type="TContainerExpression">
+				<Item Type="TExpressionOr">
+					<Item Type="TStringExpression">
+						<Value>CHKDSK.CHK</Value>
+						<Operator>4</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>0</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TStringExpression">
+						<Value>*\Microsoft\Windows\WER\*</Value>
+						<Operator>4</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>1</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TStringExpression">
+						<Value>*\ManifestCache\*_blobs.bin</Value>
+						<Operator>4</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>1</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TStringExpression">
+						<Value>CrashDumps\*.dmp</Value>
+						<Operator>4</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>1</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TStringExpression">
+						<Value>*\Windows\SoftwareDistribution\*</Value>
+						<Operator>4</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>1</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TStringExpression">
+						<Value>*\AppData\Local\Microsoft\*.log</Value>
+						<Operator>4</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>1</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TStringExpression">
+						<Value>*\AppData\Local\Microsoft\Windows\Explorer\thumbcache*.db</Value>
+						<Operator>4</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>1</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TStringExpression">
+						<Value>*\Windows\Temp\*</Value>
+						<Operator>4</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>1</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TStringExpression">
+						<Value>*\Google\Chrome\User Data\*Cache*\*</Value>
+						<Operator>4</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>1</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TStringExpression">
+						<Value>*\Mozilla\Firefox\Profiles\*Cache*\*</Value>
+						<Operator>4</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>1</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TStringExpression">
+						<Value>*\Packages\Microsoft.MicrosoftEdge_*\*Cache*\*</Value>
+						<Operator>4</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>1</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TStringExpression">
+						<Value>*\AppData\Local\Temp\*</Value>
+						<Operator>4</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>1</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TStringExpression">
+						<Value>LiveKernelReports\*.dmp</Value>
+						<Operator>4</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>1</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TStringExpression">
+						<Value>*\Recent\*.lnk</Value>
+						<Operator>4</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>1</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TInvalidShortcutExpression">
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+				</Item>
+			</PersistedExpressionTree>
+			<TopmostMatchesOnly>False</TopmostMatchesOnly>
+			<ForgetSettings>False</ForgetSettings>
+		</Item>
+		<Item Type="TTSPFileMatchOptions">
+			<FilesAndFolders>0</FilesAndFolders>
+			<Title>Exclude system files</Title>
+			<PersistedExpressionTree Type="TContainerExpression">
+				<Item Type="TExpressionAnd">
+					<Item Type="TFileTypeGroupExpression">
+						<Value>System Files</Value>
+						<Operator>6</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{B0461F53-EAF6-4DA1-B879-BEA641BF670E}</fmtid>
+								<pid>56</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TStringExpression">
+						<Value>C:\Windows</Value>
+						<Operator>7</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>1</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TExpressionOr">
+						<Item Type="TStringExpression">
+							<Value>Enter file name</Value>
+							<Operator>2</Operator>
+							<MetaData>
+								<Column>
+									<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+									<pid>0</pid>
+								</Column>
+							</MetaData>
+							<Negated>False</Negated>
+							<Active>True</Active>
+						</Item>
+						<Item Type="TStringExpression">
+							<Value>Enter another file name</Value>
+							<Operator>2</Operator>
+							<MetaData>
+								<Column>
+									<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+									<pid>0</pid>
+								</Column>
+							</MetaData>
+							<Negated>False</Negated>
+							<Active>True</Active>
+						</Item>
+					</Item>
+				</Item>
+			</PersistedExpressionTree>
+			<TopmostMatchesOnly>False</TopmostMatchesOnly>
+			<ForgetSettings>False</ForgetSettings>
+		</Item>
+		<Item Type="TTSPFileMatchOptions">
+			<FilesAndFolders>0</FilesAndFolders>
+			<Title>Files with long paths</Title>
+			<PersistedExpressionTree Type="TContainerExpression">
+				<Item Type="TExpressionAnd">
+					<Item Type="TNumericExpression">
+						<Value>255</Value>
+						<Operator>4</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>37</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+				</Item>
+			</PersistedExpressionTree>
+			<TopmostMatchesOnly>False</TopmostMatchesOnly>
+			<ForgetSettings>False</ForgetSettings>
+		</Item>
+		<Item Type="TTSPFileMatchOptions">
+			<FilesAndFolders>1</FilesAndFolders>
+			<Title>Empty folders</Title>
+			<PersistedExpressionTree Type="TContainerExpression">
+				<Item Type="TExpressionAnd">
+					<Item Type="TNumericExpression">
+						<Value>0</Value>
+						<Operator>2</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>7</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TNumericExpression">
+						<Value>0</Value>
+						<Operator>2</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{DE632DE0-4253-4BAB-85C4-CA3BE18AA0F6}</fmtid>
+								<pid>8</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+				</Item>
+			</PersistedExpressionTree>
+			<TopmostMatchesOnly>False</TopmostMatchesOnly>
+			<ForgetSettings>False</ForgetSettings>
+		</Item>
+		<Item Type="TTSPFileMatchOptions">
+			<FilesAndFolders>0</FilesAndFolders>
+			<Title>File Content</Title>
+			<PersistedExpressionTree Type="TContainerExpression">
+				<Item Type="TExpressionAnd">
+					<Item Type="TFileTypeGroupExpression">
+						<Value>Audio Files</Value>
+						<Operator>6</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{B0461F53-EAF6-4DA1-B879-BEA641BF670E}</fmtid>
+								<pid>56</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TFileTypeGroupExpression">
+						<Value>Video Files</Value>
+						<Operator>6</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{B0461F53-EAF6-4DA1-B879-BEA641BF670E}</fmtid>
+								<pid>56</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TFileTypeGroupExpression">
+						<Value>Graphic Files</Value>
+						<Operator>6</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{B0461F53-EAF6-4DA1-B879-BEA641BF670E}</fmtid>
+								<pid>56</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TFileTypeGroupExpression">
+						<Value>Database Files</Value>
+						<Operator>6</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{B0461F53-EAF6-4DA1-B879-BEA641BF670E}</fmtid>
+								<pid>56</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TFileTypeGroupExpression">
+						<Value>PC Virtualization Files</Value>
+						<Operator>6</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{B0461F53-EAF6-4DA1-B879-BEA641BF670E}</fmtid>
+								<pid>56</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TFileTypeGroupExpression">
+						<Value>System Files</Value>
+						<Operator>6</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{B0461F53-EAF6-4DA1-B879-BEA641BF670E}</fmtid>
+								<pid>56</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+					<Item Type="TFileContentExpression">
+						<Value>Text to search for</Value>
+						<Operator>2</Operator>
+						<MetaData>
+							<Column>
+								<fmtid>{B0461F53-EAF6-4DA1-B879-BEA641BF670E}</fmtid>
+								<pid>60</pid>
+							</Column>
+						</MetaData>
+						<Negated>False</Negated>
+						<Active>True</Active>
+					</Item>
+				</Item>
+			</PersistedExpressionTree>
+			<TopmostMatchesOnly>False</TopmostMatchesOnly>
+			<ForgetSettings>False</ForgetSettings>
+		</Item>
+	</Templates>
+	<Tag>0</Tag>
+	<SplitViewOpenedWidth_0CF322A0_B424_423D_BFB6_F3A61CFAB4E0>434</SplitViewOpenedWidth_0CF322A0_B424_423D_BFB6_F3A61CFAB4E0>
+	<SplitViewOpenedWidth_E65978EA_DA70_4A3E_AE99_30B358532CA5>434</SplitViewOpenedWidth_E65978EA_DA70_4A3E_AE99_30B358532CA5>
+	<ExpressionBuilderWidth_E65978EA_DA70_4A3E_AE99_30B358532CA5>420</ExpressionBuilderWidth_E65978EA_DA70_4A3E_AE99_30B358532CA5>
+	<SplitViewOpened_0CF322A0_B424_423D_BFB6_F3A61CFAB4E0>True</SplitViewOpened_0CF322A0_B424_423D_BFB6_F3A61CFAB4E0>
+	<ExpressionBuilderWidth_0CF322A0_B424_423D_BFB6_F3A61CFAB4E0>420</ExpressionBuilderWidth_0CF322A0_B424_423D_BFB6_F3A61CFAB4E0>
+	<SplitViewOpened_E65978EA_DA70_4A3E_AE99_30B358532CA5>True</SplitViewOpened_E65978EA_DA70_4A3E_AE99_30B358532CA5>
+</GlobalOptions>

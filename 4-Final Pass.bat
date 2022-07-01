@@ -1,0 +1,1 @@
+"C:\Program Files\JAM Software\TreeSize\TreeSize.exe" /SEARCH:Start /OPTIONS ".\searchsettings.xml" /TEXT ".\output.csv"
