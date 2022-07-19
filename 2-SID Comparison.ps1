@@ -7,7 +7,7 @@ foreach ($file in $uniqueSIDS)
 {
     $path = $file | select "Full Path" -ExpandProperty "Full Path"
     $path = $path.replace("Y:\","Z:\")
-    $owner = get-acl $path | select owner -ExpandProperty owner |format-list
+    $owner = get-acl $path | select owner -ExpandProperty owner | format-list
     $owner = $owner | Out-String
     $file."Full Path" = $owner
 }
